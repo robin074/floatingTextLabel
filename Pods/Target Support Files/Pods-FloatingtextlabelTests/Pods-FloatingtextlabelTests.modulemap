@@ -1,0 +1,6 @@
+framework module Pods_FloatingtextlabelTests {
+  umbrella header "Pods-FloatingtextlabelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
